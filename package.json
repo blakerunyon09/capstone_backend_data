@@ -1,0 +1,19 @@
+{
+  "name": "backend_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakerunyon09/capstone_backend_data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakerunyon09/capstone_backend_data/issues"
+  },
+  "homepage": "https://github.com/blakerunyon09/capstone_backend_data#readme"
+}
